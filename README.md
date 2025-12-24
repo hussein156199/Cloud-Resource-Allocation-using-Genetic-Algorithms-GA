@@ -1,5 +1,7 @@
 1.Introduction and Overview 
+
 1.1 Project Idea 
+
 The project focuses on developing an intelligent system for Cloud Resource 
 Allocation using Genetic Algorithms (GA). 
 Cloud computing has revolutionized the way computing resources are accessed, 
@@ -19,10 +21,14 @@ and task priorities.
 This project serves as a practical application of AI-driven optimization for 
 demonstrating how heuristic algorithms like GA can significantly improve 
 performance, cost-efficiency, and reliability in dynamic cloud environments. 
+
+
 The system includes: 
 • Servers 
 • Virtual Machines (VMs) 
 • Tasks 
+
+
 key Objectives: 
 1. Efficient allocation of tasks to virtual machines and servers. 
 2. Minimization of total execution time (Make span). 
